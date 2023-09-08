@@ -1,0 +1,4 @@
+[submodule "ryderperu"]
+	path = ryderperu
+	url = git@git.vauxoo.com:vauxoo/ryderperu.git
+	branch = 16.0
