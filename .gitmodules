@@ -2,3 +2,7 @@
 	path = ryderperu
 	url = git@git.vauxoo.com:vauxoo/ryderperu.git
 	branch = 16.0
+[submodule "crm"]
+	path = crm
+	url = git@github.com:Vauxoo/crm.git
+	branch = 16.0
