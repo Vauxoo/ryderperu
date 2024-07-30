@@ -1,12 +1,12 @@
 [submodule "ryderperu"]
 	path = ryderperu
 	url = git@git.vauxoo.com:vauxoo/ryderperu.git
-	branch = 16.0
+	branch = 17.0
 [submodule "account-financial-tools"]
 	path = account-financial-tools
 	url = git@github.com:Vauxoo/account-financial-tools.git
-	branch = 16.0
+	branch = 17.0
 [submodule "hr-expense"]
 	path = hr-expense
 	url = git@github.com:Vauxoo/hr-expense.git
-	branch = 16.0
+	branch = 17.0
